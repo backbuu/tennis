@@ -1,0 +1,8 @@
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/bin/Debug/netstandard2.0/TennisLib.deps.json
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/bin/Debug/netstandard2.0/TennisLib.dll
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/bin/Debug/netstandard2.0/TennisLib.pdb
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/obj/Debug/netstandard2.0/TennisLib.csprojAssemblyReference.cache
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/obj/Debug/netstandard2.0/TennisLib.AssemblyInfoInputs.cache
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/obj/Debug/netstandard2.0/TennisLib.AssemblyInfo.cs
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/obj/Debug/netstandard2.0/TennisLib.dll
+/Users/back/Desktop/workshop/myhelloworld/tennis/Tennis/TennisLib/obj/Debug/netstandard2.0/TennisLib.pdb
